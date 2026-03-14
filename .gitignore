@@ -1,0 +1,18 @@
+# MPLAB X IDE
+**/build/
+**/dist/
+**/debug/
+**/nbproject/private/
+**/nbproject/Makefile-*
+**/nbproject/Package-*
+**/.generated_files/
+
+# Proteus
+*.PWI
+*.DBK
+*.workspace
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
